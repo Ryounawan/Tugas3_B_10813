@@ -57,7 +57,7 @@ st.markdown("""
                 <img src="https://media.tenor.com/oqJo9GcbfjYAAAAi/welcome-images-server.gif", alt="Welcome Image">
             </div>
             """, unsafe_allow_html=True)
-st.markdown("""<h1 style="text-align: center; color: #4CAF50;">Prediksi IPK - 1796</h1>""", unsafe_allow_html=True)
+st.markdown("""<h1 style="text-align: center; color: #4CAF50;">Prediksi IPK - 0813</h1>""", unsafe_allow_html=True)
 
 st.markdown("""<p style="text-align: center; color: #0073e6;">Aplikasi ini berguna untuk memprediksi IPK berdasarkan nilai Matematika, Bahasa Inggris, dan Bahasa Indonesia</p>""", unsafe_allow_html=True)
 
